@@ -1,0 +1,33 @@
+.todoList{
+    display: flex;
+    margin: auto;
+    align-items: center;  
+    flex-direction: column;
+}
+.todoList h1{
+    font-size: 60px;
+    color: blueviolet;
+}
+.inputList input{
+    padding: 20px;
+    font-size: 22px;
+}
+.inputList button{
+    padding: 20px 30px;
+    font-size: 22px;
+    background-color: rgb(2, 202, 2);
+    color: white;
+    cursor: pointer;
+}
+
+
+.todoList ul li{
+    font-size: 28px;
+    padding: 5px 0px;
+    font-weight: bold;
+    
+    
+}
+
+
+
